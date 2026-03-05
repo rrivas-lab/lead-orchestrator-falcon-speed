@@ -1,0 +1,8 @@
+{
+  "name": "Lead Orchestrator",
+  "description": "A comprehensive AI-powered lead management system for logistics, integrating multi-channel ingestion, automated segmentation, and Odoo CRM synchronization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
